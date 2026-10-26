@@ -1,0 +1,6 @@
+# 본인 OC 가 들어 있다. 절대 올리지 않는다.
+.env
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
